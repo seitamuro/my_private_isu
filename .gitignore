@@ -2,3 +2,5 @@
 !ruby/
 !ruby/*
 !.gitignore
+!my-migration/
+!my-migration/*
