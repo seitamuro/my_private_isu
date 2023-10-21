@@ -1,8 +1,7 @@
-*
-!ruby/
-!ruby/*
-!.gitignore
-!my-migration/
-!my-migration/*
-!logs/
-!logs/*
+golang/
+query-digester/
+alp
+alp_linux_amd64.tar.gz
+public/
+node/
+php/
